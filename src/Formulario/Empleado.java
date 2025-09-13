@@ -28,6 +28,7 @@ public class Empleado extends javax.swing.JFrame {
 
     /**
      * Creates new form Cliente
+     * Guardando el archivo segundo
      */
     public Empleado() throws SQLException {
         initComponents();
